@@ -1,0 +1,32 @@
+h1{
+    color:white;
+}
+body{
+    text-align:center;
+}
+li{
+    display:inline;
+    margin-right:50px;
+}
+header{
+    background-color:slategrey;
+    padding:20px;
+}
+ul li a{
+    text-decoration: none;
+    color:burlywood;
+}
+img{
+    border-radius:150%;
+    height:200px;
+    width:200px;
+}
+#Portfolio{
+    background-color:antiquewhite;
+    padding:10px;
+}
+footer{
+    background-color:grey;
+    padding:10px;
+    color:brown;
+}
